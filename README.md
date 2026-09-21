@@ -55,7 +55,7 @@ Strongest in **Arrays, Math, Hash Tables & Dynamic Programming** — currently p
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts,react,nodejs,express,python,nextjs,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts,react,nodejs,python,tailwind,git,github" />
 </p>
 
 ---
