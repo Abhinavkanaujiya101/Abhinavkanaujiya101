@@ -22,7 +22,7 @@
 > location: India
 > currently: grinding DSA + shipping side projects
 ```
-
+ 
 I'm a full-stack developer who likes building things that actually run in real time — chat systems, dashboards, and the occasional AI-flavored experiment. When I'm not writing code, I'm probably arguing with a LeetCode edge case.
 
 ---
