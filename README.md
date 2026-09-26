@@ -1,4 +1,4 @@
-<h1 align="center">🏆 Abhinav Kanaujiya 🏆</h1>
+<h1 align="center">Hi there, I'm Abhinav 👋</h1>
 <h3 align="center">B.Tech (3rd Year) @ Pranveer Singh Institute of Technology</h3>
 
 <p align="center">
@@ -14,21 +14,20 @@
 
 ---
 
-### 🎙️ `$ whoami` — Player Card
+### `$ whoami`
 
 ```bash
-> Position    : Full-Stack Developer
-> Jersey #    : 03 (3rd Year)
-> Home Turf   : India
-> Current Play: Grinding DSA + shipping side projects
-> Status      : Compiling ideas into reality 🔥
+> developer, builder, occasional bug creator
+> status: compiling ideas into reality
+> location: India
+> currently: grinding DSA + shipping side projects
 ```
 
-I build things that run in **real time** — chat systems, dashboards, and the occasional AI-flavored experiment. When I'm not writing code, I'm probably arguing with a LeetCode edge case in the 4th quarter.
+I'm a full-stack developer who likes building things that actually run in real time — chat systems, dashboards, and the occasional AI-flavored experiment. When I'm not writing code, I'm probably arguing with a LeetCode edge case.
 
 ---
 
-### 🥇 Starting Lineup — Pinned Projects
+### 📌 Pinned Projects
 
 <table>
 <tr>
@@ -65,13 +64,13 @@ Glassmorphic Chrome/Edge dashboard with real-time power & CPU analytics.
 </tr>
 </table>
 
-**Bench squad (in progress):**
+**Also building (in progress):**
 - 🌉 **[OmniBridge](https://github.com/Abhinavkanaujiya101/OmniBridge)** — bridge/integration project · `JavaScript`
 - 🧑‍💻 **[My-Portfolio](https://github.com/Abhinavkanaujiya101/My-Portfolio)** — personal portfolio site · `JavaScript`
 
 ---
 
-### 🧩 Training Regimen — DSA Grind
+### 🧩 DSA Grind
 
 <p align="left">
   <img src="https://img.shields.io/badge/LeetCode-190%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
@@ -79,11 +78,11 @@ Glassmorphic Chrome/Edge dashboard with real-time power & CPU analytics.
   <img src="https://img.shields.io/badge/50_Days_Badge-2026-blue?style=flat-square" />
 </p>
 
-Strongest in **Arrays, Math, Hash Tables & Dynamic Programming** — currently drilling **Divide & Conquer** and **Monotonic Stack** for the next level up.
+Strongest in **Arrays, Math, Hash Tables & Dynamic Programming** — currently pushing further into Divide & Conquer and Monotonic Stack problems.
 
 ---
 
-### 🎽 Team Roster — Tech Stack
+### 🧰 Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts,react,nodejs,python,tailwind,git,github" />
@@ -91,7 +90,7 @@ Strongest in **Arrays, Math, Hash Tables & Dynamic Programming** — currently d
 
 ---
 
-### 📊 Season Stats — GitHub Scoreboard
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhinavkanaujiya101&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
@@ -104,7 +103,7 @@ Strongest in **Arrays, Math, Hash Tables & Dynamic Programming** — currently d
 
 ---
 
-### 🏆 Trophy Cabinet
+### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abhinavkanaujiya101&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
@@ -112,7 +111,7 @@ Strongest in **Arrays, Math, Hash Tables & Dynamic Programming** — currently d
 
 ---
 
-### 📫 Post-Game Interview — Let's Connect
+### 📫 Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abhinav-kanaujiya-781422343/">LinkedIn</a> ·
@@ -120,4 +119,4 @@ Strongest in **Arrays, Math, Hash Tables & Dynamic Programming** — currently d
   <a href="https://my-portfolio-eta-snowy-35.vercel.app/">Portfolio</a>
 </p>
 
-<p align="center"><i>Always in training. Open to collab, always tinkering. 🏋️‍♂️</i></p>
+<p align="center"><i>Open to collab, always tinkering.</i></p>
