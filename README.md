@@ -5,6 +5,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full-stack+dev+%7C+Real-time+systems+builder;Turning+coffee+into+commits+%E2%98%95;Grinding+DSA+one+problem+at+a+time;Currently+shipping+something+new" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhinav-kanaujiya-781422343/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/AbhinavKanaujiya/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://my-portfolio-eta-snowy-35.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Abhinavkanaujiya101&style=for-the-badge&color=00F7FF&label=PROFILE+VISITORS+SINCE+2025" />
+</p>
+<p align="center">
+  <sub>👀 counts every time this page loads — thanks for stopping by!</sub>
+</p>
+
 ---
 
 ### `$ whoami`
@@ -87,14 +97,6 @@ Strongest in **Arrays, Math, Hash Tables & Dynamic Programming** — currently p
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=Abhinavkanaujiya101&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhinavkanaujiya101&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
 </p>
 
 ---
